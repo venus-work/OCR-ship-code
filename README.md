@@ -63,6 +63,10 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+5. **Use conda**
+```bash
+conda create --name <env> --file conda_environment.txt
+```
 6. **Download model weights**
 
 ## Model Zoo

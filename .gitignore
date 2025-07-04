@@ -1,0 +1,7 @@
+*.ckpt
+*.pth
+*.MOV
+*.jpg
+*.png
+*.jpeg
+*.mp4
